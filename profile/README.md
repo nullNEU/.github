@@ -27,6 +27,6 @@ We believe in maintaining a respectful and welcoming environment for everyone. P
 
 ## Contact Us
 
-Reach out to [null.neu@skiff.com](mailto:null.neu@skiff.com) for more information about our chapter, events, and how you can get involved.
+Reach out to [null_NEU@proton.me](mailto:null_NEU@proton.me) for more information about our chapter, events, and how you can get involved.
 
 Together, let's build a secure digital future.
