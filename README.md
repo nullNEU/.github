@@ -33,6 +33,6 @@ In line with our commitment to fostering a respectful and inclusive environment,
 
 ## Reach Out
 
-Interested in collaborating, contributing, or simply want to learn more about null NEU? Don’t hesitate to get in touch with us at [null.neu@skiff.com](mailto:null.neu@skiff.com). We're always looking for new members who share our passion for cybersecurity.
+Interested in collaborating, contributing, or simply want to learn more about null NEU? Don’t hesitate to get in touch with us at [null_NEU@proton.me](mailto:null_NEU@proton.me). We're always looking for new members who share our passion for cybersecurity.
 
 *At null NEU, we believe in securing the future together, one byte at a time.*
